@@ -13,6 +13,15 @@ Built with React, React Leaflet, Tailwind CSS, and Lucide Icons.
 - **Legend & Controls:** Intuitive controls for filtering and refreshing data.
 - **Error Handling:** Graceful UI feedback when data fails to load.
 
+## Demo
+Screenshots:
+<img width="1918" height="1095" alt="Screenshot 2025-09-03 151105" src="https://github.com/user-attachments/assets/f0645bed-e4b9-45c8-ad3f-231c1c049cc9" />
+
+Video Demo:
+https://github.com/user-attachments/assets/c89afb33-b054-4b13-923f-3d7b7b518110
+
+
+
 ## Project Structure
 
 ```
