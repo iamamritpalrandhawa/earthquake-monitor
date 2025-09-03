@@ -21,6 +21,8 @@ Built with React, React Leaflet, Tailwind CSS, and Lucide Icons.
 ### 🎥 Video Demo
 [![Watch the demo](demo-thumbnail.png)](https://github.com/user-attachments/assets/c89afb33-b054-4b13-923f-3d7b7b518110)
 
+### 🚀 Live Demo
+🔗 [earthquake-monitor-sigma.vercel.app](https://earthquake-monitor-sigma.vercel.app/)
 
 
 ## Project Structure
